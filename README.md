@@ -1,1 +1,1 @@
-Analisis kedua kode program dapat dilihat dalam Google Colab 
+Penjelasan program untuk soal-soal UTS terdapat dalam colab
